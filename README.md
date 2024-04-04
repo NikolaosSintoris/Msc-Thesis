@@ -10,4 +10,4 @@ To implement this plan, we use a collaborative learning environment based on the
 
 Although machine learning and deep learning methods are becoming increasingly popular in tackling this problem and show excellent accuracy, they remain difficult for researchers to understand how their decisions and predictions are made. Aiming to solve the above problem, we present deep learning models to illustrate and interpret the features that determined the categorization of domain names as benign or malicious.
 
-With tests on popular datasets, the goal is to use XAI algorithms to interpret classification decisions in the individual models of the entities participating in Federated Learning and in the aggregateδ models that result after aggregating the individual data.
+With tests on popular datasets, the goal is to use XAI algorithms to interpret classification decisions in the individual models of the entities participating in Federated Learning and in the aggregated models that result after aggregating the individual data.
